@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ln  . \ ls -ln .. \ ls -ln /boot
+ls -lna  . \ ls -lna .. \ ls -lna /boot
